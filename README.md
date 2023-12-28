@@ -31,7 +31,7 @@ The bot will start listening to messages in your Discord server. It responds to 
 
 ## Configuration
 
-1. Create a `.env` file and copy the contents of `.env.example` into it
+1. Open `GeminiBotConfig.py` File
 
 2. Fill in the following values:
 
@@ -39,7 +39,7 @@ The bot will start listening to messages in your Discord server. It responds to 
 - `GOOGLE_AI_KEY`: Your Google AI API key. Google API Key can be acquired from https://makersuite.google.com/
 - `MAX_HISTORY`: The maximum number of messages to retain in history for each user. 0 will disable history
 
-3. Run `GeminiDiscordBot.py`
+3. Run `GeminiDiscordBot.py` or to make it easier for you, i made a start.bat file you can just click that
 
 ## Commands
 
